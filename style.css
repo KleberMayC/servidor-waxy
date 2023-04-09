@@ -182,7 +182,37 @@
     font-size: 30px;
   }
 
+.contato {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.redes{
+    display: flex;
+    margin: 30px;
+    width: 10%;
+    
+}
+
+.redes a{
+    margin: 30px;
+}
 
 
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.footer h2{
+    font-size: small;
+    color: rgb(0, 0, 0);
+}
 
   
