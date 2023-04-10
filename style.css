@@ -362,7 +362,7 @@ display: flex;
     .vips {
       display: flex;
       flex-direction: column;
-      width: 50%;
+      width: 90%;
       gap: 20px;
     }
 
