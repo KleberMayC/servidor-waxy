@@ -309,7 +309,11 @@ nav {
   }
 
   .footer h2{
-    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #9b4dca;
     font-size: 8px;
   }
 }
