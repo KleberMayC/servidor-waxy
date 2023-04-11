@@ -307,4 +307,9 @@ nav {
     display: flex;
     justify-content: center;
   }
+
+  .footer h2{
+    
+    font-size: 8px;
+  }
 }
